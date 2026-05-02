@@ -165,10 +165,6 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aabv21&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&cache_seconds=1800)](https://github.com/aabv21)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aabv21&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&cache_seconds=1800&langs_count=8)](https://github.com/aabv21)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=aabv21&theme=dark&hide_border=true&background=0d1117)](https://github.com/aabv21)
 
 </div>
