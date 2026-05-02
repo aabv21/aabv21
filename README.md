@@ -157,7 +157,14 @@
 
 **Architecture & Patterns**
 
-`CQRS` · `Hexagonal Architecture` · `Domain-Driven Design` · `Event-Driven` · `XState` · `Microservices` · `Serverless` · `Multi-tenancy`
+![CQRS](https://img.shields.io/badge/CQRS-7C3AED?style=flat-square&logoColor=white)
+![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal_Architecture-7C3AED?style=flat-square&logoColor=white)
+![DDD](https://img.shields.io/badge/Domain--Driven_Design-7C3AED?style=flat-square&logoColor=white)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-7C3AED?style=flat-square&logoColor=white)
+![XState](https://img.shields.io/badge/XState-7C3AED?style=flat-square&logo=xstate&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-7C3AED?style=flat-square&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-7C3AED?style=flat-square&logo=serverless&logoColor=white)
+![Multi-tenancy](https://img.shields.io/badge/Multi--tenancy-7C3AED?style=flat-square&logoColor=white)
 
 ---
 
