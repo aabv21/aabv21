@@ -46,7 +46,7 @@
 
 ## Experience Highlights
 
-**NextFaze** — Full Stack Engineer &nbsp;·&nbsp; `Apr 2025 – Present`
+**NextFaze** — Backend Engineer &nbsp;·&nbsp; `Apr 2025 – Present`
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -60,7 +60,7 @@
 
 ---
 
-**SmartHop** — Full Stack Engineer → Engineering Manager &nbsp;·&nbsp; `Apr 2019 – Jan 2025`
+**SmartHop** — Full Stack Engineer → Senior Full Stack Engineer → Engineering Manager &nbsp;·&nbsp; `Apr 2019 – Jan 2025`
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
