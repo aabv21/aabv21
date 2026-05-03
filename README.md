@@ -46,21 +46,52 @@
 
 ## Experience Highlights
 
-| | Company | Role | Period |
-|---|---|---|---|
-| 🟢 | **NextFaze** | Full Stack Engineer · NestJS, FastAPI, LangChain, Claude | Apr 2025 – Present |
-| ⚪ | **SmartHop** | Full Stack Engineer → Engineering Manager · Node.js, React, MongoDB, Stripe | Apr 2019 – Jan 2025 |
-| ⚪ | **CIDITEL-VE** | Backend Engineer · Python, Web2py | Jul 2018 – Apr 2019 |
+**NextFaze** — Full Stack Engineer &nbsp;·&nbsp; `Apr 2025 – Present`
 
-**NextFaze** *(Apr 2025 – Present)*
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D4A574?style=flat-square&logo=anthropic&logoColor=white)
+
 - Built the **Document Parser**: AI pipeline supporting 18+ document types with 90%+ accuracy using a 10-stage orchestration architecture
 - Delivered the **AR System**: middleware automating the full work order lifecycle between ServiceChannel and FSG ERP
 - Primary decision-maker for AI model/provider selection, evaluating Claude, GPT, Mistral, and DeepSeek
 
-**SmartHop** *(Apr 2019 – Jan 2025)*
+---
+
+**SmartHop** — Full Stack Engineer → Engineering Manager &nbsp;·&nbsp; `Apr 2019 – Jan 2025`
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
 - Led a fintech engineering team that scaled from 1 to 4 developers
 - Co-designed **SmartPay**: ACH-based payment mechanism serving 30–50 active SaaS clients
 - Architected a double-entry ledger system and delivered **Payroll V2** within a single quarter
+
+---
+
+**CIDITEL-VE / Latinux Inc** — Backend Engineer &nbsp;·&nbsp; `Jul 2018 – Apr 2019`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Web2py](https://img.shields.io/badge/Web2py-4B8BBE?style=flat-square&logoColor=white)
+
+- Built the **MECE system**: alternative admission pathway for students applying to Simon Bolivar University
+- Implemented a timed online academic exam platform with separate categories for numerical and verbal ability
+- Enabled real-time exam control for teachers including session initiation and instant results feedback
+
+---
+
+**Simon Bolivar University** — Support Assistant &nbsp;·&nbsp; `Apr 2018 – Jul 2018`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Web2py](https://img.shields.io/badge/Web2py-4B8BBE?style=flat-square&logoColor=white)
+
+- Built **SisPIO**: a platform that helped students prepare for university entrance exams
+- Supported administrative operations including student tracking and PIO program activity management
 
 ---
 
@@ -69,19 +100,19 @@
 <table>
   <tr>
     <td width="50%">
-      <h4><a href="https://github.com/aabv21">EzzyGas</a> &nbsp;<sup><code>Fintech</code></sup></h4>
+      <h4><a href="https://github.com/aabv21">EzzyGas</a> &nbsp;<sup><code>Fintech</code></sup> &nbsp;<img src="https://img.shields.io/badge/🔒_Private-555555?style=flat-square&logoColor=white"/></h4>
       <p>Multi-tenant immutable ledger, Stripe Issuing, Plaid ACH, real-time pump comms via Redis + WebSockets. CloudFormation (ECS Fargate) + GitHub Actions CI/CD.</p>
       <p><sub>🔵 NestJS · Next.js · PostgreSQL · AWS · Stripe · Plaid</sub></p>
     </td>
     <td width="50%">
-      <h4><a href="https://github.com/aabv21">Document Parser</a> &nbsp;<sup><code>AI</code></sup></h4>
+      <h4><a href="https://github.com/aabv21">Document Parser</a> &nbsp;<sup><code>AI</code></sup> &nbsp;<img src="https://img.shields.io/badge/🔒_Private-555555?style=flat-square&logoColor=white"/></h4>
       <p>AI pipeline: 18+ document types, 90%+ accuracy, hybrid LLM classification, LLM-as-Judge self-training loop with Langfuse datasets.</p>
       <p><sub>🔵 Python · FastAPI · Claude · OpenAI · LangFuse · AWS Lambda</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h4><a href="https://github.com/aabv21">AR System</a> &nbsp;<sup><code>Enterprise</code></sup></h4>
+      <h4><a href="https://github.com/aabv21">AR System</a> &nbsp;<sup><code>Enterprise</code></sup> &nbsp;<img src="https://img.shields.io/badge/🔒_Private-555555?style=flat-square&logoColor=white"/></h4>
       <p>Hexagonal Architecture + XState state machines automating enterprise work order lifecycle end-to-end between ServiceChannel and FSG ERP.</p>
       <p><sub>🔴 NestJS · RabbitMQ · Prisma · PostgreSQL · Datadog</sub></p>
     </td>
